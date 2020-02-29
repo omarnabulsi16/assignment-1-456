@@ -1,7 +1,7 @@
 How to install:
 
 ```bash
-git clone https://github.com/BachFive/456-Network-Security-Assignment-2.git
+git clone https://github.com/omarnabulsi16/assignment-1-456.git
 ```
 Choose which worm program to try: 
 	- worm_one_network.py has been tested on at least one VM network.
