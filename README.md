@@ -4,7 +4,6 @@ How to install:
 git clone https://github.com/omarnabulsi16/assignment-1-456.git
 ```
 Choose which worm program to try: 
-
 	- worm_one_network.py has been tested on at least one VM network.
 	- worm_multiple_network.py should be capable of infecting a machine connected to more than one network
 
